@@ -1,4 +1,6 @@
 Introduction
+
+
 • Proliferation of digital manipulation tools has increased the risk of image tampering. Copy-move forgery involves duplicating a portion of an image to conceal or modify content.
 • Detecting such forgeries in medical images is imperative for maintaining diagnostic trustworthiness and ensuring patient safety. The proposed method leverages advanced image processing and machine learning algorithms to identify duplicated regions within medical images.
 • Experimental results demonstrate the effectiveness of this approach across various medical imaging modalities (X-rays, MRIs, CT scans).
